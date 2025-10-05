@@ -35,7 +35,7 @@ export default function Page() {
           <Image src={bmr} alt="Calculator" width={80} className="mx-auto"></Image>BMR
         </Link>
 
-        <Link href="/shapes" className="text-2xl text-white bg-red-500 px-5 py-2 rounded-xl text-center mx-2 w-150 "  >
+        <Link href="/shape" className="text-2xl text-white bg-red-500 px-5 py-2 rounded-xl text-center mx-2 w-150 "  >
           <Image src={shapes} alt="Calculator" width={80} className="mx-auto"></Image>พื้นที่รูปทรง
         </Link>
 
